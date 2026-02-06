@@ -19,9 +19,9 @@ DATA_DIR = Path("data")
 # -----------------------
 # NOTE: tu m'as fourni des paires email->email ; je les place ici en majuscules côté clé
 SCHOOL_MAPPINGS = {
-    "DROIT": {
-        "L1-JURISTED'ENTREPRISE": "lda1c-2025-2026@ism.edu.sn",
-        "L1-ADM.PUBLIQUE": "lda1c-2025-2026@ism.edu.sn",
+    "DROIT": {
+        "L1-JURISTED'ENTREPRISE": "lda1c-2025-2026@ism.edu.sn",
+        "L1-ADM.PUBLIQUE": "lda1c-2025-2026@ism.edu.sn",
         "L1DroitPrivéFondamental": "lda1c-2025-2026@ism.edu.sn",
         "LDA1-A": "lda1a-2025-2026@ism.edu.sn",
         "LDA1-BILINGUE": "lda1bilingue-2025-2026@ism.edu.sn",
