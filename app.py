@@ -397,7 +397,7 @@ header_col1, header_col2 = st.columns([1, 4])
 with header_col1:
     st.image("https://commons.wikimedia.org/wiki/File:Apollo-kop,_objectnr_A_12979.jpg", width=64)
 with header_col2:
-    st.title("Excel → CSV — Multi-Écoles")
+    st.title("Minatholy")
     st.markdown("Génère les exports (listes de diffusion, créations et inscriptions de profils sur BLU) à partir d'un export de liste d'éléves. Choisis l'école, upload le fichier, télécharge les fichiers.")
 
 st.markdown("---")
