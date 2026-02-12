@@ -198,6 +198,7 @@ SCHOOL_MAPPINGS = {
         "SPRI1-A": "spri1a-2526@ism.edu.sn",
         "SPRI1-BILINGUE": "spri1bilingue-2526@ism.edu.sn",
         "SPRI1-B": "spri1b-2526@ism.edu.sn",
+        "MLI-R2": "mlir2-2526@ism.edu.sn",
         "JMI-2": "jmi2-2526@ism.edu.sn",
         "LCM-2": "lcm2-2526@ism.edu.sn",
         "SPRI2-A": "spri2a-2526@ism.edu.sn",
