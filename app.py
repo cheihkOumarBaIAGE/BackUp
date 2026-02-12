@@ -555,10 +555,10 @@ if run:
         b.seek(0)
         return b
 
-    fn_mise = f"mise_a_jour_liste_de_diffusion_{selected_school}_{now_str}.csv"
-    fn_admin = f"ajouter_membres_admin_{selected_school}_{now_str}.csv"
-    fn_profils = f"creation_profils_blackboard_{selected_school}_{now_str}.csv"
-    fn_courses = f"inscription_au_cours_en_ligne_{selected_school}_{now_str}.csv"
+    fn_mise = f"mise_a_jour_liste_de_diffusion_GW_{selected_school}_{now_str}.csv"
+    fn_admin = f"ajouter_membres_admin_GW_{selected_school}_{now_str}.csv"
+    fn_profils = f"creation_profils_BLU_{selected_school}_{now_str}.csv"
+    fn_courses = f"inscription_au_cours_en_ligne_BLU_{selected_school}_{now_str}.csv"
     fn_report = f"rapport_du_script_{selected_school}_{now_str}.txt"
 
     bytes_mise = make_bytes(combined) if not combined.empty else make_bytes(pd.DataFrame(columns=["Group Email [Required]","Member Email","Member Type","Member Role"]))
