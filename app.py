@@ -88,6 +88,7 @@ SCHOOL_MAPPINGS = {
         "LG1D-MI": "lg1d-mi2025-2026@ism.edu.sn",
         "LG1E-MI": "lg1e-mi2025-2026@ism.edu.sn",
         "LG1-CF-R2": "lg1-2r2025-2026@ism.edu.sn",
+        "LG1-CF-R2B": "lg1-2r2025-2026@ism.edu.sn",
         "LG1-CIM-R2": "lg1-2r2025-2026@ism.edu.sn",
         "LG1-MARKETINGETCOMMUNICATION-R2": "lg1-2r2025-2026@ism.edu.sn",
         "LG1-QHSE-R2": "lg1-2r2025-2026@ism.edu.sn",
